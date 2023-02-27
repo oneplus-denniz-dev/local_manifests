@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="oneplus-denniz-dev/android_kernel_oneplus_mt6893" path="kernel/oneplus/mt6893" remote="github" revision="main" />
+  <project name="oneplus-denniz-dev/android_device_oneplus_denniz" path="device/oneplus/denniz" remote="github" revision="main" />
+  <project name="oneplus-denniz-dev/packages_apps_OPlusExtras" path="packages/apps/OPlusExtras" remote="github" revision="main" />
+  <project name="oneplus-denniz-dev/vendor_oneplus_denniz" path="vendor/oneplus/denniz" remote="github" revision="main" />
+
+  <project name="SakilMondal/vendor_mediatek_ims" path="vendor/mediatek/ims" remote="github" revision="13" />
+</manifest>
